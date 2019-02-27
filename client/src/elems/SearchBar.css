@@ -1,0 +1,21 @@
+.wrapper {
+    text-align: center;
+    margin-top: 2vh;
+}
+
+.wrapSearch {
+    max-width: 80%;
+    min-width: 600px;
+    display: inline-flex;
+    text-align: left;
+}
+
+.searchField {
+    padding: 10px 30px 10px 30px;
+    box-sizing: border-box;
+    flex: 1;
+}
+
+.searchIcon {
+    padding:10px;
+}

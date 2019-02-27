@@ -1,0 +1,17 @@
+
+.cardWrap {
+    width: 400px;
+    display: inline-block;
+    margin: 10px;
+    height: 350px;
+}
+
+.cardImage {
+    height: 200px;
+}
+
+.cardAction {
+    height: calc(100% - 200px);
+    margin: 0;
+    vertical-align: top;
+}
