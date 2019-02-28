@@ -1,6 +1,6 @@
 import React, { useState, Suspense } from "react";
 import useFetch from "fetch-suspense";
-import { GetResults, InfoHolder, Info, Loading, SearchBar } from "./elems";
+import { GetResults, InfoHolder, Loading, SearchBar, GetInfo } from "./elems";
 import "./App.css";
 
 const App = () => {
@@ -13,20 +13,6 @@ const App = () => {
 
   const closeInfo = () => {
     setShowInfo(false);
-  };
-
-  const GetInfo = () => {
-    const data = useFetch("/info", {
-      method: "post",
-      body: JSON.stringify({
-        query: showInfo
-      }),
-      headers: {
-        "Content-Type": "application/json"
-      }
-    });
-
-    return <Info data={data} />;
   };
 
   const setSearch = value => {
@@ -46,7 +32,7 @@ const App = () => {
       {showInfo && (
         <InfoHolder closeInfo={closeInfo}>
           <Suspense fallback={<Loading />}>
-            <GetInfo />
+            <GetInfo query={showInfo} />
           </Suspense>
         </InfoHolder>
       )}

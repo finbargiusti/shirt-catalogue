@@ -25,7 +25,7 @@ const CloseButton = ({ closeInfo }) => {
 };
 
 export const Info = ({ data }) => {
-  const [galleryFullScreen, setGalleryFullScreen] = useState(false);
+  // const [galleryFullScreen, setGalleryFullScreen] = useState(false);
 
   return (
     <div>
@@ -35,9 +35,8 @@ export const Info = ({ data }) => {
       <Slider className={"carousel "} arrows={true}>
         {data.gallery_images.map((item, index) => {
           return (
-            <div>
+            <div key={index}>
               <img
-                key={index}
                 className="galleryItem"
                 src={"https://mosaic03.ztat.net/vgs/media/pdp-gallery/" + item}
               />

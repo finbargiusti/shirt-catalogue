@@ -23,4 +23,13 @@ describe("SearchBar", () => {
     component.find("input").simulate("keypress", e);
     expect(sendFunction).toHaveBeenCalledWith("Hello World");
   });
+  it("Does nothing if keypressed is not enter", () => {
+    const sendFunction = jest.fn();
+    const e = {
+      key: "Tab"
+    };
+    const component = mount(<SearchBar sendFunction={sendFunction} />);
+    component.find("input").simulate("keypress", e);
+    expect(sendFunction).not.toHaveBeenCalled();
+  });
 });

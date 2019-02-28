@@ -10,7 +10,7 @@ const SearchBar = ({ sendFunction }) => {
 
   const handleLocalKeypress = e => {
     if (e.key === "Enter") {
-      return send();
+      send();
     }
   };
 

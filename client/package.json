@@ -31,5 +31,13 @@
   "devDependencies": {
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.10.0"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "**/*.{js,jsx}",
+      "!**/*.{css,json,svg, gif}",
+      "!**/node_modules/**",
+      "!src/elems/index.js"
+    ]
   }
 }
