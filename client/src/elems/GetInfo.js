@@ -1,6 +1,8 @@
 import React from "react";
-import { Info } from "index";
+import { Info } from ".";
 import useFetch from "fetch-suspense";
+import { Typography } from "@material-ui/core";
+import { object } from "prop-types";
 
 const GetInfo = ({ query }) => {
   const data = useFetch("/info", {
@@ -12,6 +14,13 @@ const GetInfo = ({ query }) => {
       "Content-Type": "application/json"
     }
   });
+
+  if (
+    !(typeof data === "object" && data !== null) ||
+    !Object.keys(data).length
+  ) {
+    return <Typography>Something went wrong!</Typography>;
+  }
 
   return <Info data={data} />;
 };

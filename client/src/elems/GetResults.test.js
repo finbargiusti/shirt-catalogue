@@ -1,20 +1,13 @@
 import React from "react";
 import useFetch from "fetch-suspense";
-import { mount, shallow } from "enzyme";
+import { mount } from "enzyme";
 
 import GetResults from "./GetResults.js";
-
-// it("renders without crashing", () => {
-//   const div = document.createElement("div");
-//   ReactDOM.render(<App />, div);
-//   ReactDOM.unmountComponentAtNode(div);
-// });
 
 jest.mock("fetch-suspense");
 
 describe("GetResults", () => {
   it("Renders Results with empty data", () => {
-    // console.log(component.debug());
     useFetch.mockImplementation(() => {
       return [];
     });

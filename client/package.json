@@ -37,7 +37,10 @@
       "**/*.{js,jsx}",
       "!**/*.{css,json,svg, gif}",
       "!**/node_modules/**",
-      "!src/elems/index.js"
+      "!src/elems/index.js",
+      "!coverage",
+      "!src/setupTests.js",
+      "!src/serviceWorker.js"
     ]
   }
 }
