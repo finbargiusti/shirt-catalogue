@@ -9,9 +9,11 @@ router.post("/", async (req, res) => {
   const queryWords = query.split(" ");
 
   const searchReg = new RegExp(
-    queryWords.map(q => `(${q})`).join("(.*)"),
+    queryWords.map(q => `(?=.*${q})`).join(""),
     "gi"
   );
+
+  console.log(searchReg);
 
   const results = data.results
     .filter(item => {
