@@ -1,7 +1,7 @@
 import React from "react";
 import { mount, shallow } from "enzyme";
 import { Info, InfoHolder } from "./Info";
-import Typography from "@material-ui/core/Typography";
+import { Badge } from "@material-ui/core";
 
 const closeInfo = jest.fn();
 
@@ -25,7 +25,8 @@ describe("InfoHolder", () => {
 
 const data = {
   meta_title: "Title",
-  gallery_images: ["img1", "img2"]
+  gallery_images: ["img1", "img2"],
+  is_sale: true
 };
 
 const InfoComponent = shallow(<Info data={data} />);
@@ -35,11 +36,11 @@ const imgPrefix = "https://mosaic03.ztat.net/vgs/media/pdp-gallery/";
 describe("Info", () => {
   it("Puts props in correct places", () => {
     expect(
-      InfoComponent.find(Typography)
+      InfoComponent.find(Badge)
         .at(0)
         .render()
         .text()
-    ).toEqual("Title");
+    ).toContain("Title");
     expect(
       InfoComponent.find("img")
         .first()

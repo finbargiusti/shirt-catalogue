@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "npm start --prefix client & npm start --prefix server"
+    "dev": "NODE_ENV=development PORT=3001 nodemon server/app.js & npm --prefix client start"
   }
 }

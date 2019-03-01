@@ -14,7 +14,7 @@ const Results = ({ query, panels, openInfo }) => {
         <Typography gutterBottom variant="h6" component="h2">
           {text}
         </Typography>
-        {panels.map(({ sku, name, price, imgUrl }, i) => {
+        {panels.map(({ sku, name, price, imgUrl, is_sale }, i) => {
           return (
             <ItemCard
               key={i}
@@ -22,6 +22,7 @@ const Results = ({ query, panels, openInfo }) => {
               name={name}
               price={price}
               imgUrl={imgUrl}
+              is_sale={is_sale}
               openInfo={openInfo}
             />
           );

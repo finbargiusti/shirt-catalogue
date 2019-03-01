@@ -10,7 +10,7 @@ router.post("/", async (req, res, next) => {
 
   const results = data.results.filter(item => item.sku.search(query) !== -1)[0];
 
-  await sleep(1000);
+  await sleep(200);
 
   res.json(results);
 });
