@@ -51,8 +51,14 @@ export const Info = ({ data }) => {
       setTimeout(() => {
         setFashion(data.fashion_score * 20);
       }, 1000);
+    } else {
+      setTimeout(() => {
+        setFashion(10);
+      }, 1000);
     }
   });
+
+  console.log(fashion, data.fashion_score);
 
   return (
     <div>
@@ -61,28 +67,24 @@ export const Info = ({ data }) => {
           {data.meta_title}
         </Badge>
       </Typography>
-      <Slider className={"carousel "} arrows={true}>
-        {data.gallery_images.map((item, index) => {
-          return (
-            <div key={index}>
-              <img
-                className="galleryItem"
-                src={"https://mosaic03.ztat.net/vgs/media/pdp-gallery/" + item}
-              />
-            </div>
-          );
-        })}
-      </Slider>
-      <div className="extraInfo">
-        <ul class="washingInstructions">
-          {data.washing_instructions &&
-            data.washing_instructions.map((item, index) => {
-              return <li key={index}>{item}</li>;
-            })}
-        </ul>
+      <div className="carouselWrapper">
+        <Slider className={"carousel "} arrows={true}>
+          {data.gallery_images.map((item, index) => {
+            return (
+              <div key={index}>
+                <img
+                  className="galleryItem"
+                  src={
+                    "https://mosaic03.ztat.net/vgs/media/pdp-gallery/" + item
+                  }
+                />
+              </div>
+            );
+          })}
+        </Slider>
         {!isNaN(data.fashion_score) && (
           <div className="score">
-            <p>Fashion Rating:</p>
+            <p>Fashion Rating</p>
             <MuiThemeProvider theme={theme}>
               <CircularProgress
                 variant="static"
@@ -103,6 +105,14 @@ export const Info = ({ data }) => {
             </MuiThemeProvider>
           </div>
         )}
+      </div>
+      <div className="extraInfo">
+        <ul className="washingInstructions">
+          {data.washing_instructions &&
+            data.washing_instructions.map((item, index) => {
+              return <li key={index}>{item}</li>;
+            })}
+        </ul>
         <div className="price-buy">
           <MuiThemeProvider theme={theme}>
             <span>
