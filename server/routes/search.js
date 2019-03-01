@@ -6,19 +6,20 @@ const data = require("../data/data");
 router.post("/", async (req, res) => {
   let { query } = req.body;
 
+  const queryWords = query.split(" ");
+
+  const searchReg = new RegExp(
+    queryWords.map(q => `(${q})`).join("(.*)"),
+    "gi"
+  );
+
   const results = data.results
     .filter(item => {
-      if (item.meta_title.toLowerCase().search(query.toLowerCase()) !== -1)
-        return true;
-      if (item.brand.toLowerCase().search(query.toLowerCase()) !== -1)
-        return true;
-      if (item.color.toLowerCase().search(query.toLowerCase()) !== -1)
-        return true;
-      for (let i = 0; i < item.category.length; i++) {
-        if (item.category[i].toLowerCase().search(query.toLowerCase()) !== -1)
-          return true;
-      }
-      return false;
+      const itemNames = []
+        .concat(item.meta_title, item.brand, item.color, item.category)
+        .join(" ");
+
+      return searchReg.test(itemNames);
     })
     .map((item, index) => {
       const name = item.meta_title;
