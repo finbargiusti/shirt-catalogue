@@ -106,7 +106,7 @@ export const Info = ({ data }) => {
         <div className="price-buy">
           <MuiThemeProvider theme={theme}>
             <span>
-              <b>{"£" + data.price / 100}</b>
+              <b>{"£" + (data.price / 100).toFixed(2)}</b>
             </span>
             <Button color="primary" variant="contained">
               Buy

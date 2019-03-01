@@ -28,7 +28,7 @@ router.post("/", async (req, res) => {
       return {
         sku,
         name,
-        price,
+        price: price.toFixed(2),
         imgUrl:
           "https://mosaic03.ztat.net/vgs/media/pdp-gallery/" +
           item.gallery_images[0],
