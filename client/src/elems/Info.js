@@ -58,8 +58,6 @@ export const Info = ({ data }) => {
     }
   });
 
-  console.log(fashion, data.fashion_score);
-
   return (
     <div>
       <Typography variant="h5" gutterBottom align="center">
@@ -83,7 +81,7 @@ export const Info = ({ data }) => {
           })}
         </Slider>
         {!isNaN(data.fashion_score) && (
-          <div className="score">
+          <Paper className="score">
             <p>Fashion Rating</p>
             <MuiThemeProvider theme={theme}>
               <CircularProgress
@@ -103,7 +101,7 @@ export const Info = ({ data }) => {
                 thickness={10}
               />
             </MuiThemeProvider>
-          </div>
+          </Paper>
         )}
       </div>
       <div className="extraInfo">
