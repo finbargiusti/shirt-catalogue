@@ -4,7 +4,7 @@ import { GetResults, InfoHolder, Loading, SearchBar, GetInfo } from "./elems";
 import "./App.css";
 
 const App = () => {
-  const [query, setQuery] = useState(false);
+  const [query, setQuery] = useState("");
   const [showInfo, setShowInfo] = useState(false);
 
   const openInfo = id => {
@@ -24,11 +24,9 @@ const App = () => {
   return (
     <div>
       <SearchBar sendFunction={setSearch} />
-      {query && (
-        <Suspense fallback={<Loading />}>
-          <GetResults query={query} openInfo={openInfo} />
-        </Suspense>
-      )}
+      <Suspense fallback={<Loading />}>
+        <GetResults query={query} openInfo={openInfo} />
+      </Suspense>
       {showInfo && (
         <InfoHolder closeInfo={closeInfo}>
           <Suspense fallback={<Loading />}>

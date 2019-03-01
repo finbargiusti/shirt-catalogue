@@ -11,9 +11,11 @@ const Results = ({ query, panels, openInfo }) => {
   return (
     <div>
       <div className="cardWrapper">
-        <Typography gutterBottom variant="h6" component="h2">
-          {text}
-        </Typography>
+        {query && (
+          <Typography gutterBottom variant="h6" component="h2">
+            {text}
+          </Typography>
+        )}
         {panels.map(({ sku, name, price, imgUrl, is_sale }, i) => {
           return (
             <ItemCard
