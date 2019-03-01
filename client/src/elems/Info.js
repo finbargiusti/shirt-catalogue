@@ -116,7 +116,11 @@ export const Info = ({ data }) => {
             <span>
               <b>{"£" + (data.price / 100).toFixed(2)}</b>
             </span>
-            <Button color="primary" variant="contained">
+            <Button
+              color="primary"
+              variant="contained"
+              href={`https://zalando.co.uk/${data.url_key}.html`}
+            >
               Buy
             </Button>
           </MuiThemeProvider>
