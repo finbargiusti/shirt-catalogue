@@ -1,28 +1,41 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, Suspense } from "react";
+import useFetch from "fetch-suspense";
+import { GetResults, InfoHolder, Loading, SearchBar, GetInfo } from "./elems";
+import "./App.css";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
-    );
-  }
-}
+const App = () => {
+  const [query, setQuery] = useState("");
+  const [showInfo, setShowInfo] = useState(false);
+
+  const openInfo = id => {
+    setShowInfo(id);
+  };
+
+  const closeInfo = () => {
+    setShowInfo(false);
+  };
+
+  const setSearch = value => {
+    if (value !== "") {
+      setQuery(value);
+    }
+  };
+
+  return (
+    <div>
+      <SearchBar sendFunction={setSearch} />
+      <Suspense fallback={<Loading />}>
+        <GetResults query={query} openInfo={openInfo} />
+      </Suspense>
+      {showInfo && (
+        <InfoHolder closeInfo={closeInfo}>
+          <Suspense fallback={<Loading />}>
+            <GetInfo query={showInfo} />
+          </Suspense>
+        </InfoHolder>
+      )}
+    </div>
+  );
+};
 
 export default App;

@@ -1,0 +1,910 @@
+{
+  "total_count": 7978,
+  "search_timed_out": false,
+  "search_terminated_early": false,
+  "max_result_window": 75000,
+  "results": [
+    {
+      "sku": "E1322F00J-502",
+      "sortname": "Eleven Paris MILOG - Shirt - flannel blue",
+      "is_vip": false,
+      "price": 7999,
+      "gallery_images": [
+        "E1/32/2F/00/J5/02/E1322F00J-502@1.1.jpg",
+        "E1/32/2F/00/J5/02/E1322F00J-502@2.1.jpg",
+        "E1/32/2F/00/J5/02/E1322F00J-502@3.1.jpg",
+        "E1/32/2F/00/J5/02/E1322F00J-502@4.1.jpg"
+      ],
+      "is_new": false,
+      "color": "blue",
+      "season": "Fall-Winter 2012",
+      "brand": "Eleven Paris",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry"
+      ],
+      "fashion_score": 1,
+      "url_key": "eleven-paris-milog-shirt-blue-e1322f00j-502",
+      "meta_title": "Eleven Paris MILOG - Shirt - flannel blue",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "A2322D01I-K11",
+      "sortname": "Anerkjendt OCEAN - Shirt - blue denim",
+      "is_vip": false,
+      "price": 3400,
+      "gallery_images": [
+        "A2/32/2D/01/IK/11/A2322D01I-K11@14.jpg",
+        "A2/32/2D/01/IK/11/A2322D01I-K11@13.jpg",
+        "A2/32/2D/01/IK/11/A2322D01I-K11@12.jpg",
+        "A2/32/2D/01/IK/11/A2322D01I-K11@11.jpg",
+        "A2/32/2D/01/IK/11/A2322D01I-K11@10.jpg",
+        "A2/32/2D/01/IK/11/A2322D01I-K11@9.jpg",
+        "A2/32/2D/01/IK/11/A2322D01I-K11@8.jpg"
+      ],
+      "is_new": false,
+      "color": "blue denim",
+      "season": "Spring-Summer 2015",
+      "brand": "Anerkjendt",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry",
+        "A shrinkage of up to 5% may occur"
+      ],
+      "fashion_score": 3,
+      "url_key": "anerkjendt-ocean-shirt-blue-denim-a2322d01i-k11",
+      "meta_title": "Anerkjendt OCEAN - Shirt - blue denim",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "QS122F01Q-002",
+      "sortname": "Q/S designed by Shirt - white",
+      "is_vip": false,
+      "price": 3499,
+      "brandfamily": "s.Oliver",
+      "gallery_images": [
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@1.jpg",
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@2.jpg",
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@3.jpg",
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@4.jpg",
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@5.jpg",
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@6.jpg",
+        "QS/12/2F/01/Q0/02/QS122F01Q-002@7.jpg"
+      ],
+      "is_new": false,
+      "color": "white",
+      "season": "Fall-Winter 2011",
+      "brand": "Q/S designed by",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry"
+      ],
+      "fashion_score": 3,
+      "url_key": "qs-by-s-oliver-shirt-white-qs122f01q-002",
+      "meta_title": "Q/S designed by Shirt - white",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "VC122F001-258",
+      "sortname": "Versace Collection Shirt - black",
+      "is_vip": false,
+      "price": 26400,
+      "brandfamily": "Versace",
+      "gallery_images": [
+        "VC/12/2F/00/12/58/VC122F001-258@4.1.jpg",
+        "VC/12/2F/00/12/58/VC122F001-258@8.jpg",
+        "VC/12/2F/00/12/58/VC122F001-258@7.jpg",
+        "VC/12/2F/00/12/58/VC122F001-258@6.jpg",
+        "VC/12/2F/00/12/58/VC122F001-258@5.jpg",
+        "VC/12/2F/00/12/58/VC122F001-258@2.1.jpg",
+        "VC/12/2F/00/12/58/VC122F001-258@3.1.jpg"
+      ],
+      "is_new": false,
+      "color": "yellow",
+      "season": "Fall-Winter 2013",
+      "brand": "Versace Collection",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "Dry cleanable"
+      ],
+      "fashion_score": 2,
+      "url_key": "versace-collection-shirt-black-vc122f001-258",
+      "meta_title": "Versace Collection Shirt - black",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "premium-mens",
+        "premium-mens-clothing",
+        "premium-mens-shirts",
+        "mens-sale",
+        "mens-clothing-sale",
+        "mens-shirts-sale",
+        "all",
+        "clothing",
+        "premium",
+        "sale",
+        "mens-clothing-casual-shirts-sale",
+        "premium-mens-sale",
+        "premium-mens-clothing-sale",
+        "premium-mens-shirts-sale"
+      ],
+      "is_sale": true
+    },
+    {
+      "sku": "JA222D1FD-B11",
+      "sortname": "Jack & Jones JORGREG - Shirt - beige",
+      "is_vip": false,
+      "price": 4000,
+      "brandfamily": "Jack & Jones",
+      "gallery_images": [
+        "JA/22/2D/1F/DB/11/JA222D1FD-B11@15.jpg",
+        "JA/22/2D/1F/DB/11/JA222D1FD-B11@19.jpg",
+        "JA/22/2D/1F/DB/11/JA222D1FD-B11@18.jpg",
+        "JA/22/2D/1F/DB/11/JA222D1FD-B11@17.jpg",
+        "JA/22/2D/1F/DB/11/JA222D1FD-B11@14.jpg",
+        "JA/22/2D/1F/DB/11/JA222D1FD-B11@16.jpg"
+      ],
+      "is_new": false,
+      "color": "beige",
+      "season": "Fall-Winter 2018",
+      "brand": "Jack & Jones",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry",
+        "Machine wash on gentle cycle"
+      ],
+      "fashion_score": 2,
+      "url_key": "jack-and-jones-jorgreg-one-pocket-mens-shirt-ja222d1fd-b11",
+      "meta_title": "Jack & Jones JORGREG - Shirt - beige",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "GS122F03E-503",
+      "sortname": "G-Star RADAR - Shirt - indigo",
+      "is_vip": false,
+      "price": 8100,
+      "gallery_images": [
+        "GS/12/2F/03/E5/03/GS122F03E-503@1.1.jpg",
+        "GS/12/2F/03/E5/03/GS122F03E-503@2.1.jpg",
+        "GS/12/2F/03/E5/03/GS122F03E-503@3.1.jpg",
+        "GS/12/2F/03/E5/03/GS122F03E-503@4.1.jpg",
+        "GS/12/2F/03/E5/03/GS122F03E-503@5.1.jpg",
+        "GS/12/2F/03/E5/03/GS122F03E-503@6.1.jpg",
+        "GS/12/2F/03/E5/03/GS122F03E-503@7.1.jpg"
+      ],
+      "is_new": false,
+      "color": "dark blue",
+      "season": "Fall-Winter 2012",
+      "brand": "G-Star",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 2,
+      "url_key": "g-star-radar-shirt-grey-gs122f03e-503",
+      "meta_title": "G-Star RADAR - Shirt - indigo",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": true
+    },
+    {
+      "sku": "M3I22D037-A11",
+      "sortname": "Massimo Dutti Shirt - white",
+      "is_vip": false,
+      "price": 4995,
+      "gallery_images": [
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@18.jpg",
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@13.jpg",
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@17.jpg",
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@12.jpg",
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@16.jpg",
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@14.jpg",
+        "M3/I2/2D/03/7A/11/M3I22D037-A11@15.jpg"
+      ],
+      "is_new": false,
+      "color": "white",
+      "season": "Fall-Winter 2018",
+      "brand": "Massimo Dutti",
+      "washing_instructions": [
+        "do not tumble dry",
+        "machine wash at 30°C",
+        "Machine wash on gentle cycle"
+      ],
+      "fashion_score": 4,
+      "url_key": "massimo-dutti-mens-shirt-white-m3i22d037-a11",
+      "meta_title": "Massimo Dutti Shirt - white",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "BE122E00J-502",
+      "sortname": "Ben Sherman Shirt - nautical blue",
+      "is_vip": false,
+      "price": 4399,
+      "brandfamily": "Ben Sherman",
+      "gallery_images": [
+        "B/E/BE122E00J-502@1.jpg",
+        "B/E/BE122E00J-502@2.jpg",
+        "B/E/BE122E00J-502@3.jpg"
+      ],
+      "is_new": false,
+      "color": "blue",
+      "season": "Spring-Summer 2011",
+      "brand": "Ben Sherman",
+      "washing_instructions": [
+        "machine wash at 30°C"
+      ],
+      "fashion_score": 3,
+      "url_key": "ben-sherman-shirt-blue-be122e00j-502",
+      "meta_title": "Ben Sherman Shirt - nautical blue",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "JA222D1HB-G11",
+      "sortname": "Jack & Jones Shirt - sassafras",
+      "is_vip": false,
+      "price": 3500,
+      "brandfamily": "Jack & Jones",
+      "gallery_images": [
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@20.jpg",
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@22.jpg",
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@18.jpg",
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@21.jpg",
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@19.jpg",
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@17.jpg",
+        "JA/22/2D/1H/BG/11/JA222D1HB-G11@16.jpg"
+      ],
+      "is_new": false,
+      "color": "red",
+      "season": "Fall-Winter 2018",
+      "brand": "Jack & Jones",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "Machine wash on gentle cycle"
+      ],
+      "fashion_score": 2,
+      "url_key": "jack-and-jones-mens-shirt-sassafras-ja222d1hb-g11",
+      "meta_title": "Jack & Jones Shirt - sassafras",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "SO222F027-707",
+      "sortname": "s.Oliver Shirt - dark taupe",
+      "is_vip": false,
+      "price": 3499,
+      "brandfamily": "s.Oliver",
+      "gallery_images": [
+        "SO/22/2F/02/77/07/SO222F027-707@1.jpg",
+        "SO/22/2F/02/77/07/SO222F027-707@2.jpg",
+        "SO/22/2F/02/77/07/SO222F027-707@3.jpg",
+        "SO/22/2F/02/77/07/SO222F027-707@4.jpg",
+        "SO/22/2F/02/77/07/SO222F027-707@5.jpg"
+      ],
+      "is_new": false,
+      "color": "taupe",
+      "season": "Fall-Winter 2011",
+      "brand": "s.Oliver",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 2,
+      "url_key": "s-oliver-shirt-blue-so222f027-707",
+      "meta_title": "s.Oliver Shirt - dark taupe",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "ED122F037-802",
+      "sortname": "edc by Esprit Shirt - black",
+      "is_vip": false,
+      "price": 2100,
+      "brandfamily": "Esprit",
+      "gallery_images": [
+        "ED/12/2F/03/78/02/ED122F037-802@1.1.jpg",
+        "ED/12/2F/03/78/02/ED122F037-802@2.1.jpg",
+        "ED/12/2F/03/78/02/ED122F037-802@3.1.jpg",
+        "ED/12/2F/03/78/02/ED122F037-802@4.1.jpg"
+      ],
+      "is_new": false,
+      "color": "black",
+      "season": "Fall-Winter 2012",
+      "brand": "edc by Esprit",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 1,
+      "url_key": "edc-by-esprit-shirt-black-ed122f037-802",
+      "meta_title": "edc by Esprit Shirt - black",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": true
+    },
+    {
+      "sku": "T1022E009-602",
+      "sortname": "Tommy Hilfiger Tailored Shirt - new kelly green",
+      "is_vip": false,
+      "price": 6999,
+      "brandfamily": "Tommy Hilfiger",
+      "gallery_images": [
+        "T/1/T1022E009-602@1.jpg",
+        "T/1/T1022E009-602@2.jpg",
+        "T/1/T1022E009-602@3.jpg",
+        "T/1/T1022E009-602@4.jpg"
+      ],
+      "is_new": false,
+      "color": "green",
+      "season": "Spring-Summer 2011",
+      "brand": "Tommy Hilfiger Tailored",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 3,
+      "url_key": "tommy-hilfiger-tailored-shirt-t1022e009-602",
+      "meta_title": "Tommy Hilfiger Tailored Shirt - new kelly green",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "mens-sale",
+        "mens-clothing-sale",
+        "mens-shirts-sale",
+        "all",
+        "clothing",
+        "sale",
+        "mens-clothing-casual-shirts-sale"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "S4222E001-304",
+      "sortname": "SJ Sand Jeans IVER - Shirt - grey",
+      "is_vip": false,
+      "price": 11499,
+      "gallery_images": [
+        "S4/22/2E/00/13/04/S4222E001-304@1.jpg",
+        "S4/22/2E/00/13/04/S4222E001-304@2.jpg",
+        "S4/22/2E/00/13/04/S4222E001-304@3.jpg",
+        "S4/22/2E/00/13/04/S4222E001-304@4.jpg",
+        "S4/22/2E/00/13/04/S4222E001-304@5.jpg",
+        "S4/22/2E/00/13/04/S4222E001-304@6.jpg"
+      ],
+      "is_new": false,
+      "color": "bordeaux",
+      "season": "Fall-Winter 2011",
+      "brand": "SJ Sand Jeans",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry"
+      ],
+      "url_key": "sand-iver-shirt-multicoloured-s4222e001-304",
+      "meta_title": "SJ Sand Jeans IVER - Shirt - grey",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "ES122D059-401",
+      "sortname": "Esprit Shirt - dusky rose",
+      "is_vip": false,
+      "price": 2900,
+      "brandfamily": "Esprit",
+      "gallery_images": [
+        "ES/12/2D/05/94/01/ES122D059-401@1.1.jpg",
+        "ES/12/2D/05/94/01/ES122D059-401@2.1.jpg",
+        "ES/12/2D/05/94/01/ES122D059-401@3.1.jpg",
+        "ES/12/2D/05/94/01/ES122D059-401@4.1.jpg"
+      ],
+      "is_new": false,
+      "color": "rose",
+      "season": "Fall-Winter 2012",
+      "brand": "Esprit",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 2,
+      "url_key": "esprit-shirt-multicoloured-es122d059-401",
+      "meta_title": "Esprit Shirt - dusky rose",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": true
+    },
+    {
+      "sku": "SC322F01M-502",
+      "sortname": "Scotch & Soda Shirt - blue",
+      "is_vip": false,
+      "price": 6999,
+      "brandfamily": "Scotch & Soda",
+      "gallery_images": [
+        "SC/32/2F/01/M5/02/SC322F01M-502@1.jpg",
+        "SC/32/2F/01/M5/02/SC322F01M-502@2.jpg",
+        "SC/32/2F/01/M5/02/SC322F01M-502@3.jpg",
+        "SC/32/2F/01/M5/02/SC322F01M-502@4.jpg",
+        "SC/32/2F/01/M5/02/SC322F01M-502@5.jpg"
+      ],
+      "is_new": false,
+      "color": "blue",
+      "season": "Fall-Winter 2011",
+      "brand": "Scotch & Soda",
+      "washing_instructions": [
+        "machine wash at 30°C"
+      ],
+      "fashion_score": 3,
+      "url_key": "scotch-soda-shirt-blue-sc322f01m-502",
+      "meta_title": "Scotch & Soda Shirt - blue",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "ST122F00L-502",
+      "sortname": "Strellson HENRY - Shirt - blau",
+      "is_vip": false,
+      "price": 5999,
+      "brandfamily": "Strellson",
+      "gallery_images": [
+        "ST/12/2F/00/L5/02/ST122F00L-502@1.jpg",
+        "ST/12/2F/00/L5/02/ST122F00L-502@2.jpg",
+        "ST/12/2F/00/L5/02/ST122F00L-502@3.jpg"
+      ],
+      "is_new": false,
+      "color": "blue",
+      "season": "Fall-Winter 2011",
+      "brand": "Strellson",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 1,
+      "url_key": "strellson-premium-henry-shirt-blue-st122f00l-502",
+      "meta_title": "Strellson HENRY - Shirt - blau",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-business-shirts",
+        "mens-clothing-casual-shirts",
+        "mens-clothing-suits-ties",
+        "mens-clothing-suits-business-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "TO122F045-302",
+      "sortname": "Tommy Hilfiger NORTH - Shirt - apple red/ classic white",
+      "is_vip": false,
+      "price": 6999,
+      "brandfamily": "Tommy Hilfiger",
+      "gallery_images": [
+        "TO/12/2F/04/53/02/TO122F045-302@1.jpg",
+        "TO/12/2F/04/53/02/TO122F045-302@2.jpg",
+        "TO/12/2F/04/53/02/TO122F045-302@3.jpg",
+        "TO/12/2F/04/53/02/TO122F045-302@4.jpg"
+      ],
+      "is_new": false,
+      "color": "red",
+      "season": "Spring-Summer 2012",
+      "brand": "Tommy Hilfiger",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 3,
+      "url_key": "tommy-hilfiger-north-stp-cf1-shirt-red-to122f045-302",
+      "meta_title": "Tommy Hilfiger NORTH - Shirt - apple red/ classic white",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "ES122F01Z-402",
+      "sortname": "Esprit POPLIN - Shirt - pink freeze",
+      "is_vip": false,
+      "price": 2899,
+      "brandfamily": "Esprit",
+      "gallery_images": [
+        "ES/12/2F/01/Z4/02/ES122F01Z-402@1.jpg",
+        "ES/12/2F/01/Z4/02/ES122F01Z-402@2.jpg",
+        "ES/12/2F/01/Z4/02/ES122F01Z-402@3.jpg",
+        "ES/12/2F/01/Z4/02/ES122F01Z-402@4.jpg"
+      ],
+      "is_new": false,
+      "color": "pink",
+      "season": "Spring-Summer 2012",
+      "brand": "Esprit",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 2,
+      "url_key": "esprit-poplin-shirt-pink-es122f01z-402",
+      "meta_title": "Esprit POPLIN - Shirt - pink freeze",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-business-shirts",
+        "mens-clothing-casual-shirts",
+        "mens-clothing-suits-ties",
+        "mens-clothing-suits-business-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "ES122E00C-502",
+      "sortname": "Esprit POP - Shirt - blue / red / white",
+      "is_vip": false,
+      "price": 2199,
+      "brandfamily": "Esprit",
+      "gallery_images": [
+        "E/S/ES122E00C-502@1.jpg",
+        "E/S/ES122E00C-502@2.jpg",
+        "E/S/ES122E00C-502@3.jpg",
+        "E/S/ES122E00C-502@4.jpg",
+        "E/S/ES122E00C-502@5.jpg",
+        "E/S/ES122E00C-502@6.jpg"
+      ],
+      "is_new": false,
+      "color": "blue",
+      "season": "Spring-Summer 2011",
+      "brand": "Esprit",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 2,
+      "url_key": "esprit-shirt-blue-es122e00c-502",
+      "meta_title": "Esprit POP - Shirt - blue / red / white",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-business-shirts",
+        "mens-clothing-casual-shirts",
+        "mens-clothing-suits-ties",
+        "mens-clothing-suits-business-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "SE622E00I-002",
+      "sortname": "Selected Homme GLADSTONE - Shirt - white/blue stripes",
+      "is_vip": false,
+      "price": 3099,
+      "gallery_images": [
+        "S/E/SE622E00I-002@1.jpg",
+        "S/E/SE622E00I-002@2.jpg",
+        "S/E/SE622E00I-002@3.jpg",
+        "S/E/SE622E00I-002@4.jpg"
+      ],
+      "is_new": false,
+      "color": "white",
+      "season": "Spring-Summer 2011",
+      "brand": "Selected Homme",
+      "washing_instructions": [
+        "do not tumble dry"
+      ],
+      "fashion_score": 4,
+      "url_key": "selected-homme-gladstone-shirt-blue-se622e00i-002",
+      "meta_title": "Selected Homme GLADSTONE - Shirt - white/blue stripes",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-business-shirts",
+        "mens-clothing-casual-shirts",
+        "mens-clothing-suits-ties",
+        "mens-clothing-suits-business-shirts",
+        "mens-sale",
+        "mens-clothing-sale",
+        "mens-shirts-sale",
+        "mens-suits-ties-sale",
+        "all",
+        "clothing",
+        "sale",
+        "mens-clothing-business-shirts-sale",
+        "mens-clothing-casual-shirts-sale",
+        "mens-clothing-suits-business-shirts-sale"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "G1222F00M-302",
+      "sortname": "Garcia HARROW - Shirt - chili",
+      "is_vip": false,
+      "price": 3499,
+      "gallery_images": [
+        "G1/22/2F/00/M3/02/G1222F00M-302@1.jpg",
+        "G1/22/2F/00/M3/02/G1222F00M-302@2.jpg",
+        "G1/22/2F/00/M3/02/G1222F00M-302@3.jpg",
+        "G1/22/2F/00/M3/02/G1222F00M-302@4.jpg",
+        "G1/22/2F/00/M3/02/G1222F00M-302@5.jpg",
+        "G1/22/2F/00/M3/02/G1222F00M-302@6.jpg",
+        "G1/22/2F/00/M3/02/G1222F00M-302@7.jpg"
+      ],
+      "is_new": false,
+      "color": "red",
+      "season": "Spring-Summer 2012",
+      "brand": "Garcia",
+      "url_key": "garcia-harrow-shirt-red-g1222f00m-302",
+      "meta_title": "Garcia HARROW - Shirt - chili",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "CA522F00X-103",
+      "sortname": "camel active JACK - Shirt - darkgrey",
+      "is_vip": false,
+      "price": 4399,
+      "gallery_images": [
+        "C/A/CA522F00X-103@1.1.jpg",
+        "C/A/CA522F00X-103@2.1.jpg",
+        "C/A/CA522F00X-103@3.1.jpg"
+      ],
+      "is_new": false,
+      "color": "dark grey",
+      "season": "Fall-Winter 2011",
+      "brand": "camel active",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry"
+      ],
+      "fashion_score": 2,
+      "url_key": "camel-active-jack-shirt-grey-ca522f00x-103",
+      "meta_title": "camel active JACK - Shirt - darkgrey",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "ES122F016-404",
+      "sortname": "Esprit Collection Shirt - purple",
+      "is_vip": false,
+      "price": 2799,
+      "brandfamily": "Esprit",
+      "gallery_images": [
+        "ES/12/2F/01/64/04/ES122F016-404@1.jpg",
+        "ES/12/2F/01/64/04/ES122F016-404@2.jpg",
+        "ES/12/2F/01/64/04/ES122F016-404@3.jpg"
+      ],
+      "is_new": false,
+      "color": "purple",
+      "season": "Fall-Winter 2011",
+      "brand": "Esprit Collection",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "do not tumble dry"
+      ],
+      "fashion_score": 2,
+      "url_key": "esprit-shirt-purple-es122f016-404",
+      "meta_title": "Esprit Collection Shirt - purple",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-business-shirts",
+        "mens-clothing-casual-shirts",
+        "mens-clothing-suits-ties",
+        "mens-clothing-suits-business-shirts",
+        "mens-sale",
+        "mens-clothing-sale",
+        "mens-shirts-sale",
+        "mens-suits-ties-sale",
+        "all",
+        "clothing",
+        "sale",
+        "mens-clothing-business-shirts-sale",
+        "mens-clothing-casual-shirts-sale",
+        "mens-clothing-suits-business-shirts-sale"
+      ],
+      "is_sale": false
+    },
+    {
+      "sku": "LE422F00L-903",
+      "sortname": "Lee WESTERN - Shirt - rising",
+      "is_vip": false,
+      "price": 6100,
+      "brandfamily": "Lee",
+      "gallery_images": [
+        "LE/42/2F/00/L9/03/LE422F00L-903@1.1.jpg",
+        "LE/42/2F/00/L9/03/LE422F00L-903@2.1.jpg",
+        "LE/42/2F/00/L9/03/LE422F00L-903@3.1.jpg",
+        "LE/42/2F/00/L9/03/LE422F00L-903@4.1.jpg"
+      ],
+      "is_new": false,
+      "color": "dark-blue denim",
+      "season": "Fall-Winter 2012",
+      "brand": "Lee",
+      "washing_instructions": [
+        "machine wash at 40°C"
+      ],
+      "fashion_score": 3,
+      "url_key": "lee-western-shirt-blue-le422f00l-903",
+      "meta_title": "Lee WESTERN - Shirt - rising",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": true
+    },
+    {
+      "sku": "P5222D01J-002",
+      "sortname": "Original Penguin OXFORD - Shirt - bright white",
+      "is_vip": false,
+      "price": 5400,
+      "gallery_images": [
+        "P5/22/2D/01/J0/02/P5222D01J-002@1.1.jpg",
+        "P5/22/2D/01/J0/02/P5222D01J-002@2.1.jpg",
+        "P5/22/2D/01/J0/02/P5222D01J-002@3.1.jpg",
+        "P5/22/2D/01/J0/02/P5222D01J-002@4.1.jpg"
+      ],
+      "is_new": false,
+      "color": "white",
+      "season": "Fall-Winter 2013",
+      "brand": "Original Penguin",
+      "washing_instructions": [
+        "machine wash at 40°C",
+        "Machine wash on gentle cycle"
+      ],
+      "fashion_score": 2,
+      "url_key": "original-penguin-oxford-shirt-white-p5222d01j-002",
+      "meta_title": "Original Penguin OXFORD - Shirt - bright white",
+      "category": [
+        "catalog",
+        "men",
+        "mens-clothing",
+        "mens-clothing-shirts",
+        "mens-clothing-casual-shirts",
+        "all",
+        "clothing"
+      ],
+      "is_sale": true
+    }
+  ],
+  "facets": [],
+  "external": {
+    "booster": {}
+  }
+}
